@@ -1,0 +1,3 @@
+rootProject.name = 'TestNewRnVersionJest59_RC0'
+
+include ':app'
